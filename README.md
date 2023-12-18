@@ -56,7 +56,7 @@ pip3 install -r requirements.txt
 3. In the same terminal type 
 
 ```
-python3 astra-arbitrum.py
+python3 astra-avax.py
 ```
 The GUI will pop up
 
