@@ -1,0 +1,12 @@
+{
+  "AMOUNT": "0.01",
+  "GAS PRICE": "30",
+  "GAS LIMIT": "100000",
+  "SLIPPAGE": "10",
+  "AUTO SLIPPAGE": "false",
+  "TP": "500",
+  "SL": "0",
+  "SL TRAIL": "100",
+  "LP": "AVAX",
+  "OPL": "True"
+}
