@@ -1,6 +1,6 @@
 <div align="center">
   <img src="avax.png" width="200"/>
-  <h1>AVA-X</h1>
+  <h1>AVA-X V3 UPDATED</h1>
   <h2>THIS NEW VERSION IS FOR AVALANCHE ONLY, WORKING ON ADDING ALL MAIN CHAINS!</h2>
   <p>Snipe New Tokens on all AVAX Dexes within 1 millisecond</p>
   <p align="center">
